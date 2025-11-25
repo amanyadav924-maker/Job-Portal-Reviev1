@@ -29,7 +29,7 @@ Project is created with:
 ![miro](https://github.com/amanyadav924-maker/Job-Portal-Reviev1/blob/19f8dd38f051a72fa2212fa7d482269cfd2f2bd1/WhatsApp%20Image%202025-11-25%20at%2019.38.08_54a208e4.jpg)
 
 ## database design
-![mysql](https://github.com/siva010928/Job-Portal/blob/main/db.png)
+![mysql](https://github.com/amanyadav924-maker/Job-Portal-Reviev1/blob/8667e158530ccb2027d2052e2930deee976f0fd8/WhatsApp%20Image%202025-11-25%20at%2019.19.55_1227ccb6.jpg)
 ## Features
 #### Job Seekers
         * search,filter,view job details and apply to the job
