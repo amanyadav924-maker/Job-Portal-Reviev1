@@ -26,7 +26,7 @@ Project is created with:
 ![star uml](https://github.com/amanyadav924-maker/Job-Portal-Reviev1/blob/28bb4000c9344f20bf4fad334bb9ab9d72cda209/WhatsApp%20Image%202025-11-25%20at%2019.36.42_398728ae.jpg)
 
 ## flow diagram
-![miro](https://github.com/siva010928/Job-Portal/blob/main/activity_flow_diagram.jpg)
+![miro](https://github.com/amanyadav924-maker/Job-Portal-Reviev1/blob/19f8dd38f051a72fa2212fa7d482269cfd2f2bd1/WhatsApp%20Image%202025-11-25%20at%2019.38.08_54a208e4.jpg)
 
 ## database design
 ![mysql](https://github.com/siva010928/Job-Portal/blob/main/db.png)
