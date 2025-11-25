@@ -20,7 +20,7 @@ Project is created with:
 ## Project Status
 #### Fronted in  development, Backend tested and deployed.
 
-[Presentation]([https://drive.google.com/file/d/1B4ZEo92g7UPVnWOf_RkBDjNe3RTFADaR/view?usp=drivesdk])
+[Presentation](https://drive.google.com/file/d/1B4ZEo92g7UPVnWOf_RkBDjNe3RTFADaR/view?usp=drivesdk)
 
 ## class diagram
 ![star uml](https://github.com/siva010928/Job-Portal/blob/main/class_diagram.jpg)
